@@ -2,8 +2,6 @@
 <h3 align="center">A frontend developer from Russia</h3>
 <img align="right" alt="Coding" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2YxazJwamwwbTRyc3Z4NnVubTg5aDZ1c2hubmZkMG4wdnllNHIxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KcW0iKgbONHUxzWrIF/giphy.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sspabloss&label=Profile%20views&color=0e75b6&style=flat" alt="sspabloss" /> </p>
-
 - 🌱 I’m currently learning **React, TS**
 
 - 📫 How to reach me **pavelmeshkov2004@gmail.com**
