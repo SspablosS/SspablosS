@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/El_pablo228" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="@el_pablo228" height="30" width="40" /></a>
+<a href="https://t.me/El_pablo228" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="@Ss_pabl0_sS" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
